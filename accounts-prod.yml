@@ -1,16 +1,11 @@
-spring:
-  config:
-    activate:
-      on-profile: "prod"
-
 build:
   version: "1.0"
 
 accounts:
   message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
-    name: "Reine Aishwarya - Product Owner"
-    email: "puritscher.juergen@gmail.com"
+    name: "Juergen Puritscher - Product Owner"
+    email: "{cipher}3c5540b98eda622aaa0d7b7ad1eee0b71a30abd8ce644fbd878c5f3841cab193ea52dbab843917ac8227e96bd10388c7"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
